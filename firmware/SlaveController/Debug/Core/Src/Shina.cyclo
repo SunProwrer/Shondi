@@ -1,0 +1,3 @@
+../Core/Src/Shina.cpp:10:1:Shina::Shina()	1
+../Core/Src/Shina.cpp:15:1:Shina::~Shina()	1
+../Core/Src/Shina.cpp:15:1:virtual Shina::~Shina()	1

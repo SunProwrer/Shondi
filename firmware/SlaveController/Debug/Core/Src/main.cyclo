@@ -1,0 +1,7 @@
+../Core/Src/main.cpp:62:6:void ProcessReceivedData(char)	3
+../Core/Src/main.cpp:80:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	2
+../Core/Src/main.cpp:93:5:int main()	1
+../Core/Src/main.cpp:139:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:176:13:void MX_USART2_UART_Init()	2
+../Core/Src/main.cpp:209:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:241:6:void Error_Handler()	1
